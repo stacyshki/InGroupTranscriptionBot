@@ -1,0 +1,5 @@
+python-telegram-bot==21.6
+transformers
+torch
+moviepy<2.0
+python-dotenv
