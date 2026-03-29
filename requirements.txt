@@ -1,6 +1,2 @@
 python-telegram-bot==21.6
-transformers
-torch --index-url https://download.pytorch.org/whl/cpu
-torchaudio --index-url https://download.pytorch.org/whl/cpu
-moviepy<2.0
-python-dotenv
+requests==2.32.3
